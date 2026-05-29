@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on implementing AI further in the process of analyzing evidence.
 - 📫 How to reach me: Message me on here
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also a streamer
 
 <!---
 Snibblort/Snibblort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
